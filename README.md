@@ -1,2 +1,2 @@
 # EXCELCs
-junior course 
+junior course - let START !
