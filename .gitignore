@@ -1,5 +1,6 @@
 #folders to exclude from project
 node_modules
+dist
 
 # Compiled class file
 *.class

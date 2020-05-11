@@ -1,0 +1,31 @@
+{
+  "name": "excelcs",
+  "version": "1.0.0",
+  "description": "course based on PURE JS excel-like application ",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --config webpack.config.js",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaxLi/EXCELCs.git"
+  },
+  "keywords": [
+    "js",
+    "excel",
+    "javascript"
+  ],
+  "author": "Lilian Baxan <lilian.baxan@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BaxLi/EXCELCs/issues"
+  },
+  "homepage": "https://github.com/BaxLi/EXCELCs#readme",
+  "private": true,
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
