@@ -1,2 +1,4 @@
 import './module'
-console.log("ster");
+import './scss/index.scss'
+
+console.log("stererere");
